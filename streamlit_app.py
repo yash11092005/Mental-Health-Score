@@ -25,7 +25,7 @@ st.set_page_config(
 )
 
 # API endpoint
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://mental-health-score-ikoj.onrender.com"
 
 # ==========================================================
 # CUSTOM CSS — Professional styling, gradients, cards, fonts
